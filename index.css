@@ -1,0 +1,18 @@
+.App {
+  padding: 30px;
+  font-family: "Roboto", sans-serif;
+  top: 0px;
+  left: 0px;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.App .container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 30px 30px 30px;
+  border-radius: 20px;
+  border-style: solid 1px;
+  background-color: transparent;
+}
+
